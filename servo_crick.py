@@ -1,9 +1,10 @@
 import blynklib
 from adafruit_crickit import crickit
 
-BLYNK_AUTH = 'eeb9358de3be47d6b4364d7f81ac247d'
+BLYNK_AUTH = 'authkeyhere'
 
-blynk = blynklib.Blynk(BLYNK_AUTH, server='192.168.42.1', port='8080')
+# exclude server and port for use with Blynk server (this is for a local server)
+blynk = blynklib.Blynk(BLYNK_AUTH, server='SERVER_IP_HERE', port='8080')
 
 @blynk.handle_event('write V5')
 def move_servo1(pin, value):
