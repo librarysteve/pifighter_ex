@@ -12,37 +12,37 @@ momo2 = adafruit.dc_motor_2
 def go_forward{pin, value):
     if int(value[0]) == 1:
         momo1.throttle = 1
-		    momo2.throttle = 1
+        momo2.throttle = 1
     else:
-		    momo1.throttle = 0
-	      momo2.throttle = 0
+        momo1.throttle = 0
+        momo2.throttle = 0
 
 @bynk.handle_event('write V1')
 def go_back(pin, value):
     if int(value[0]) == 1:
-	      momo1.throttle = -1
-		    momo2.throttle = -1
+        momo1.throttle = -1
+        momo2.throttle = -1
     else:
-		    momo1.throttle = 0
-	      momo2.throttle = 0
+        momo1.throttle = 0
+        momo2.throttle = 0
 
 @bynk.handle_event('write V2')
 def turn_right(pin, value):
     if int(value[0]) == 1:
-	      momo1.throttle = -1
-		    momo2.throttle = 1
-	  else:
-	    	momo1.throttle = 0
-	      momo2.throttle = 0
+        momo1.throttle = -1
+        momo2.throttle = 1
+    else:
+        momo1.throttle = 0
+        momo2.throttle = 0
 
 @bynk.handle_event('write V3')
 def turn_left(pin, value):
     if int(value[0]) == 1:
-	      momo1.throttle = 1
-		    momo2.throttle = -1
-	  else:
-	    	momo1.throttle = 0
-	      momo2.throttle = 0
+        momo1.throttle = 1
+        momo2.throttle = -1
+    else:
+        momo1.throttle = 0
+        momo2.throttle = 0
 		
 		
 		
