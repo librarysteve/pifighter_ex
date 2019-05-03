@@ -30,8 +30,8 @@ You can set the on and off values of the virtual pin in the app
 @blynk.handle_event('write V0')
 def when_button_is_pressed(pin, value):
     speed = float(value[0])
-	motor1 = crickit.dc_motor_1 # This is how to call the dc motor object
-	motor1.throttle = speed     # This is one way of defining the speed
+    motor1 = crickit.dc_motor_1 # This is how to call the dc motor object
+    motor1.throttle = speed     # This is one way of defining the speed
 	
 # Run forever or until keyboard interrupt. 
 while True:
