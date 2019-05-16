@@ -1,6 +1,8 @@
 import blynklib
 from adafruit_crickit import crickit
 
+## Blynk Crickit Neopixel example with the zRGBra(sp) widget ##
+
 BLYNK_AUTH = 'apikeyhere'
 # Exclude server and port for use with Blynk server
 blynk = blynklib.Blynk(BLYNK_AUTH, server='SERVER_IP_HERE', port='8080')
