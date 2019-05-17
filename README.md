@@ -3,37 +3,37 @@
 :books: Lexington Public Library :books: example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using Blynk as an iot service.
                                                                                                     
                                                                                                     
-                           .......                                                                  
-                    ....',,,,,,,,,,''..                                                             
-               ...',,,,,,,,,,,,,,,,,,,,,'..                              .,:clc:;.                  
-           .............'',,,,,,,,,,,,,,,,,..                         .;okOOOOOOOkd:.               
-                           ....',,,,,,,,,,,,,.                      .;dOOOOOOOOOOOOOx:.             
-                                 ..',,,,,,,,,,'.                   .okOOOOOOOOOOOOOOOOd,            
-                                    ..',,,,,,,,,.                 ;xOOOOOOOOOOOkkxxxkkOko'          
-                                       .',,,,,,,,.               :kOOOOOOOkxl:,'......,:lo:.        
-                                         .',,,,,,,'.            :kOOOOOOxc'.  .........  .',.       
-                                           .',,,,,;'.          :kOOOOkd;.  ..',,,,,,,,,'.   .       
-                                             .,,,,,,.         ,xOOOOd;.  .',,,,,,,,,,,,,,'.         
-                   ....                       .',,,,,.       .dOOOkc.  .',,,,,,,,,,,,,,,,,,.        
-            ..,;:clllllcc:;,'..                .',,,,.      .lOOOd'  .',,,,,,,,,,,,,,,,,,,,,.       
-         .,codddddddddddddddddoc;,.             .',,,'      ;kOOl.  .,,,,,,,,''........',,,,,.      
-       .:oddddddddddddddddddddddddoc;'.          .',,'.    .oOkc. .',,,,,'...   ...........',,.     
-     .;odddddddddddddoooooddddddddddddl:'.        ..,'.    ;kOc. .',,,'..   .',;:ccccc:;,....''.    
-    .cdddddolc:;,''.........'',;:clodddddl;.       .''    .oOl. .,,,'.  ..,:cccccccccccccc:'  ...   
-   'lddoc;'..                     ..';:loddo:.      ..    'ko. .,,'.  .,:ccccccccccccccccccc;.  ..  
-  ,oo:'.                                .':loo:.          :d' .,'.  .;:cccccccccccccccccccccc:.     
-.;c,.      .....'''''''''''.......         ..;cl,        .c: .'.. .,:cccc:;,,,''',,;:ccccccccc;.    
-''     ..',,,,,,,,,,,,,,,,,,,,,,,,,''...       .;,'.     .;. ..  ':cc;,...           ..,;cccccc,    
-     .',,,,,,,,,,,,,,,,'''..................     ...      . .. .;c;'.                    .,:ccc:.   
-    .,,,,,,,,,,,,,'...                                        .;,.                         .,:cc,   
-   .,,,,,,,,,,'..                                            ...                             .;c:.  
-  .',,,,,,,,..                                                                                 'c'  
-  .,,,,,,,.                                                                                     ',. 
-  .',,,,'.                                                                                       '. 
-   .,,,.                                                                                            
-   .,,.                                                                                           
-    ',.                                                                                                 
-    ..                                                                                              
+                           ppppppp                                                                  
+                    ppppoffffffffffoopp                                                             
+               pppofffffffffffffffffffffopp                              pfIclcIIp                  
+           pppppppppppppoofffffffffffffffffpp                         pIokOOOOOOOkdIp               
+                           ppppofffffffffffffp                      pIdOOOOOOOOOOOOOxIp             
+                                 ppoffffffffffop                   pokOOOOOOOOOOOOOOOOdf            
+                                    ppofffffffffp                 IxOOOOOOOOOOOkkxxxkkOkoo          
+                                       poffffffffp               IkOOOOOOOkxlIfoppppppfIloIp        
+                                         pofffffffop            IkOOOOOOxcop  ppppppppp  pofp       
+                                           pofffffIop          IkOOOOkdIp  ppofffffffffop   p       
+                                             pffffffp         fxOOOOdIp  poffffffffffffffop         
+                   pppp                       pofffffp       pdOOOkcp  poffffffffffffffffffp        
+            ppfIIclllllccIIfopp                poffffp      plOOOdo  pofffffffffffffffffffffp       
+         pfcodddddddddddddddddocIfp             pofffo      IkOOlp  pffffffffooppppppppofffffp      
+       pIoddddddddddddddddddddddddocIop          poffop    poOkcp pofffffoppp   pppppppppppoffp     
+     pIodddddddddddddoooooddddddddddddlIop        ppfop    IkOcp pofffopp   pofIIcccccIIfppppoop    
+    pcdddddolcIIfoopppppppppoofIIclodddddlIp       poo    poOlp pfffop  ppfIccccccccccccccIo  ppp   
+   olddocIopp                     ppoIIloddoIp      pp    okop pffop  pfIcccccccccccccccccccIp  pp  
+  fooIop                                poIlooIp          Ido pfop  pIIccccccccccccccccccccccIp     
+pIcfp      pppppoooooooooooppppppp         ppIclf        pcI popp pfIccccIIfffoooffIIcccccccccIp    
+oo     ppofffffffffffffffffffffffffooppp       pIfop     pIp pp  oIccIfppp           ppfIccccccf    
+     poffffffffffffffffooopppppppppppppppppp     ppp      p pp pIcIop                    pfIcccIp   
+    pfffffffffffffoppp                                        pIfp                         pfIccf   
+   pffffffffffopp                                            ppp                             pIcIp  
+  poffffffffpp                                                                                 oco  
+  pfffffffp                                                                                     ofp 
+  poffffop                                                                                       op 
+   pfffp                                                                                            
+   pffp                                                                                           
+    ofp                                                                                                 
+    pp                                                                                              
 
 
 These are basic example scripts for making crickit hat work once you hace blynk up and running. 
