@@ -9,7 +9,7 @@ also for testing the blynk app widgets.
 #Obtained from the app or server admin page
 BLYNK_AUTH = 'authkeyhere'
 
-#initialize Blynk in this script. The port for a local instance is 8080
+#initialize Blynk in this script. The server IP for a local instance is 0.0.0.0, port is 8080
 blynk = blynklib.Blynk(BLYNK_AUTH, server='server_ip_address', port='8080')
 
 @blynk.handle_event('write V0')
