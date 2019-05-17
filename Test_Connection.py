@@ -1,5 +1,10 @@
 import blynklib
 
+'''
+Non CrickitHAT test. Will print to std out with pin number and value.
+This is useful for testing the stack for connectivity to the blynk server
+also for testing the blynk app widgets.
+
 #Obtained from the app or server admin page
 BLYNK_AUTH = 'authkeyhere'
 
