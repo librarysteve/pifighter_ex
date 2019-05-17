@@ -37,7 +37,10 @@ oo     ppofffffffffffffffffffffffffooppp       pIfop     pIp pp  oIccIfppp      
 ```
 
 These are basic example scripts for making crickit hat work once you hace blynk up and running. 
-These will be included with the (_in the works_) pifighter_installer repo for the the rest of the world to use!!!!!  :sweat_smile:
+These will be included with the (_in the works_) pifighter_installer repo
+##### for the the rest of the world to use!!!!!  :sweat_smile:
+_..Or probably just my public library Classes_
+
 
 ## TO DO:
 - [x] Initial build working with multiple Crickit IO options.
@@ -46,4 +49,3 @@ These will be included with the (_in the works_) pifighter_installer repo for th
 - [ ] Don't forget to eat... Stephen!! (yeah i'm leaving myself this note)
 
 
-..Or probably just my public library Classes
