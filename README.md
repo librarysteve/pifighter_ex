@@ -1,8 +1,8 @@
 #  :doughnut: PiFighter  :facepunch:
 
-:books: Lexington Public Library :books: example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using Blynk as an iot service.
+:books: Lexington Public Library :books: example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using Blynk as an iot service..
                                                                                                     
-                                                                                                    
+```                                                                                                    
                            ppppppp                                                                  
                     ppppoffffffffffoopp                                                             
                pppofffffffffffffffffffffopp                              pfIclcIIp                  
@@ -34,7 +34,7 @@ oo     ppofffffffffffffffffffffffffooppp       pIfop     pIp pp  oIccIfppp      
    pffp                                                                                           
     ofp                                                                                                 
     pp                                                                                              
-
+```
 
 These are basic example scripts for making crickit hat work once you hace blynk up and running. 
 These will be included with the (_in the works_) pifighter_installer repo for the the rest of the world to use!!!!!  :sweat_smile:
