@@ -1,7 +1,11 @@
 #  :doughnut: PiFighter  :facepunch:
 
-:books: Lexington Public Library :books: example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using Blynk as an iot service..
+## :books: Fom the Lexington Public Library  :coffee:
+
+Example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using Blynk to broker data.
                                                                                                     
+
+
 ```                                                                                                    
                            ppppppp                                                                  
                     ppppoffffffffffoopp                                                             
