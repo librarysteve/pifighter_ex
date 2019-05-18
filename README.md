@@ -40,7 +40,7 @@ oo     ppofffffffffffffffffffffffffooppp       pIfop     pIp pp  oIccIfppp      
     pp                                                                                              
 ```
 
-These are basic example scripts for making crickit hat work once you hace blynk up and running. 
+These are basic example scripts for making crickit hat work once you have the a connection to the Raspberry Pi up and running. 
 These will be included with the (_in the works_) pifighter_installer repo
 ##### for the the rest of the world to use!!!!!  :sweat_smile:
 _..Or probably just my public library Classes_
