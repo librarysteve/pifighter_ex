@@ -46,10 +46,4 @@ These will be included with the (_in the works_) pifighter_installer repo
 _..Or probably just my public library Classes_
 
 
-## TO DO:
-- [x] Initial build working with multiple Crickit IO options.
-- [ ] More indepth descriptions and maybe some gifs to guide the people on
-- [ ] Take Photographs of the rover build structure, explain for others
-- [ ] Don't forget to eat... Stephen!! (yeah i'm leaving myself this note)
-
 
