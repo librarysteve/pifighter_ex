@@ -2,7 +2,7 @@
 
 ## :books: Fom the [Lexington Public Library](https://lexpublib.org)  :coffee:
 
-Example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using the Blynk app and server.
+Example files for controlling the [Adafruit Crickit Hat for Raspberry Pi](https://www.adafruit.com/product/3957), using [Blynk](https://blynk.io/).
                                                                                                     
 
 
