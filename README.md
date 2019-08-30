@@ -2,7 +2,7 @@
 
 ## :books: Fom the Lexington Public Library  :coffee:
 
-Example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using Blynk to broker data.
+Example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using the Blynk app and server.
                                                                                                     
 
 
