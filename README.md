@@ -1,6 +1,6 @@
 #  :doughnut: PiFighter  :facepunch:
 
-## :books: Fom the Lexington Public Library  :coffee:
+## :books: Fom the [Lexington Public Library](https://lexpublib.org)  :coffee:
 
 Example files for controlling the Adafruit Crickit Hat for Raspberry Pi, using the Blynk app and server.
                                                                                                     
